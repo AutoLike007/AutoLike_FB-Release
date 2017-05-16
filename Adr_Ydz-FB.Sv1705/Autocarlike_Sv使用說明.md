@@ -14,6 +14,6 @@ MD5：3f91cc572c20e2b0846b469c6fe00b46 (170515-1)<br>
 Sv：17/0515-1<br><br>
 下載使用說明： (××-×表示：××當月日期-×當日更新次數)<br>
 1) 點選[Adr_Ydz-FB.Sv1705]資料夾 > 點擊[YDZ_FBSv05××-×.exe] > [View Raw]或[Download]選項即可下載。<br>
-2) 加入「ADR｜YDZ交友聯誼」Facebook社團並且閱讀規約與簽到，達到活躍標準請至https://goo.gl/P03vsC填表審核。<br><br>
+2) 加入「ADR｜YDZ交友聯誼」Facebook社團並且閱讀規約與簽到，達到活躍標準請至https://goo.gl/P03vsC 填表審核。<br><br>
 # 大漢文創行銷企劃有限公司 http://ppt.cc/6hv2Z
 # Autocarlike_FB-Release http://ppt.cc/zWCVi
