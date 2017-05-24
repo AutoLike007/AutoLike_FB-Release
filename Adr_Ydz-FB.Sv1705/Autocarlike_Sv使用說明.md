@@ -11,7 +11,9 @@ Sv：17/0510-1<br>
 MD5：1876b3364b32b0758dc61d503db19b40 (170512-1)<br>
 Sv：17/0512-1<br>
 MD5：3f91cc572c20e2b0846b469c6fe00b46 (170515-1)<br>
-Sv：17/0515-1<br><br>
+Sv：17/0515-1<br>
+MD5：7dd99249bf437fca032c61077e392030 (170524-1)<br>
+Sv：17/0524-1<br><br>
 下載使用說明： (××-×表示：××當月日期-×當日更新次數)<br>
 1) 點選[Adr_Ydz-FB.Sv1705]資料夾 > 點擊[YDZ_FBSv05××-×.exe] > [View Raw]或[Download]選項即可下載。<br>
 2) 加入「ADR｜YDZ交友聯誼」Facebook社團並且閱讀規約與簽到，達到活躍標準請至 https://goo.gl/u5ZV1i 填表審核。<br><br>
