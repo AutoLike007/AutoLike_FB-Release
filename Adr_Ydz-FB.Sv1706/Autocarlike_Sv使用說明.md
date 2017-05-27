@@ -8,7 +8,7 @@ Autocarlike YDZ_FBSv 穩定版本<br>
 不按非好友讚 - 選項打勾過濾非好友文章(非好友不按)<br>
 序號請勿亂輸入避免造成不必要的麻煩發生。<br><br>
 MD5：<br>
-Sv：<br>
+Sv：<br><br>
 下載使用說明： (××-×表示：××當月日期-×當日更新次數)<br>
 1) 點選[Adr_Ydz-FB.Sv1706]資料夾 > 點擊[YDZ_FBSv06××-×.exe] > [View Raw]或[Download]選項即可下載。<br>
 2) 加入「ADR｜YDZ交友聯誼」Facebook社團並且閱讀規約與簽到，達到活躍標準請至 http://wp.me/P8M3JL-2H 填表審核。<br><br>
