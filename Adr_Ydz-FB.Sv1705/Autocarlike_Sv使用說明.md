@@ -17,6 +17,6 @@ Sv：17/0524-1<br><br>
 下載使用說明： (××-×表示：××當月日期-×當日更新次數)<br>
 1) 點選[Adr_Ydz-FB.Sv1705]資料夾 > 點擊[YDZ_FBSv05××-×.exe] > [View Raw]或[Download]選項即可下載。<br>
 2) 加入「ADR｜YDZ交友聯誼」Facebook社團並且閱讀規約與簽到，達到活躍標準請至 http://wp.me/P8M3JL-2H 填表審核。<br><br>
-# Autocarlike官網：http://adls.qov.tw/
+# Autocarlike官方網站：http://adls.qov.tw/
 # 大漢文創行銷企劃有限公司 http://ppt.cc/6hv2Z
 # Autocarlike_FB-Release http://ppt.cc/zWCVi
